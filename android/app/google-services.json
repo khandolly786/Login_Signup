@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65144070399",
+    "project_id": "loginsignup-cab6c",
+    "storage_bucket": "loginsignup-cab6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65144070399:android:11ac668f838c70c1cfacca",
+        "android_client_info": {
+          "package_name": "com.example.my_login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC46_AsqSGIUDaVVakHv9j0RhLyBfOC8VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
